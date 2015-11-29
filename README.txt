@@ -74,7 +74,14 @@ The 3D models are:
 
 HowTo:
 just copy the .3Dshapes DIRECTORY in your 3D prefix folder
-(e.g. in windows C:\kicad\packages3d_MCAD or in Linux/OSX ~\packages3d_MCAD )
+(e.g. in windows C:\kicad\packages3d_MCAD or in Linux/OSX ~/packages3d_MCAD )
+resulting in:
+    windows
+    C:\kicad\packages3d_MCAD\Capacitors_Tantalum_SMD.3dshapes
+    linux/osx
+    ~/packages3d_MCAD/Capacitors_Tantalum_SMD.3dshapes
+    with all *.wrl and *.step files inside
+    
 set your KISYS3DMOD var to e.g. C:\kicad\packages3d_MCAD
 It is also possible to just override kicad standard 3D modules, 
 but consider that an update or a new installation of kicad
