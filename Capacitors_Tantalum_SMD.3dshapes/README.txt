@@ -1,5 +1,5 @@
 Capacitors_Tantalum_SMD.3dshapes
-referriing kicad module library:
+referring kicad module library:
 https://github.com/KiCad/Capacitors_Tantalum_SMD.pretty
 preview
 https://raw.githubusercontent.com/easyw/kicad-3d-models-in-freecad/master/cadquery/FCAD_script_generator/parametric-tantalum-capacitors.png
