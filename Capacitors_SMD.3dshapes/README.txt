@@ -4,6 +4,7 @@ https://github.com/KiCad/Capacitors_SMD.pretty
 preview
 https://github.com/easyw/kicad-3d-models-in-freecad/raw/master/cadquery/FCAD_script_generator/parametric-chip-capacitors.png
 
+chip capacitors
 C_0201.step
 C_0201.wrl
 C_0402.step
@@ -41,7 +42,9 @@ C_2225.wrl
 C_2225_HandSoldering.step
 C_2225_HandSoldering.wrl
 
-missing to be done:
+Aluminum Capacitors SMD
+preview
+https://raw.githubusercontent.com/easyw/kicad-3d-models-in-freecad/master/cadquery/FCAD_script_generator/parametric-aluminum-capacitors.png
 c_elec_10x10.5.step
 c_elec_10x10.step
 c_elec_10x7.7.step
@@ -71,6 +74,9 @@ https://github.com/easyw/kicad-3d-models-in-freecad/tree/master/cadquery/FCAD_sc
 
 http://www.kemet.com/Lists/TechnicalArticles/Attachments/29/f2100e.pdf
 http://www.kemet.com/Lists/ProductCatalog/Attachments/40/KEM_C1010_X7R_HV_SMD.pdf
+
+http://industrial.panasonic.com/lecs/www-data/pdf/ABA0000/ABA0000PE424.pdf
+http://www.nichicon.co.jp/english/products/pdfs/e-wx.pdf
 
 Licence of 3D models
 GNU General Public License (http://www.gnu.org/licenses/gpl.html), version 3 or later
