@@ -63,3 +63,12 @@ Risk disclaimer
 
 *USE 3D CAD DATA AT YOUR OWN RISK +
 DO NOT RELY UPON ANY INFORMATION FOUND HERE WITHOUT INDEPENDENT VERIFICATION.*
+
+
+3D kicad libraries List
+-----------------------
+Resistors_SMD.3dshapes
+Capacitors_SMD.3dshapes
+Capacitors_Tantalum_SMD.3dshapes
+Housing_SOIC.3dshapes
+Housings_QFP.3dshapes
