@@ -1,3 +1,9 @@
+kicad 3D MCAD models in DIR .3dshapes
+
+NB ALL THE MODELS HAVE BEEN INCLUDED IN KICAD OFFICIAL REPO
+https://github.com/KiCad/packages3D
+
+
 Resistors_SMD.3dshapes
 referring kicad module library:
 https://github.com/KiCad/Resistors_SMD.pretty

@@ -1,7 +1,11 @@
 kicad 3D MCAD models in DIR .3dshapes
 
+NB ALL THE MODELS HAVE BEEN INCLUDED IN KICAD OFFICIAL REPO
+https://github.com/KiCad/packages3D
+
+
 Author: Maurice https://launchpad.net/~easyw
-Authors: will be detailed in correspondant DIR
+Authors: will be detailed in correspondent DIR
 
 Licence of 3D models
 GNU General Public License (http://www.gnu.org/licenses/gpl.html), version 3 or later
